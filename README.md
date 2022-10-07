@@ -2,7 +2,7 @@
 
 ---
 
-<p style='text-align: justify;'>Sou estudante do curso de :mortar_board: <strong>Tecnologia em Análise e Desenvolvimento de Sistemas</strong>, trabalho atualmente como <strong>Analista de Dados</strong>. A cada dia busco aprender mais, seja Back End ou Front End, sempre busacando me superar! Já possu certo conhecimento em algumas liguagens como <code>c++</code>, <code>php</code>, <code>python</code>, <code>Java</code>,<code>Java Scrip</code>, dentre outras... Sou casado e tenho uma :family: maravilhosa, almejo gandes metas e busco um maior aperfeiçoamento como programador profissioal!.
+<p style='text-align: justify;'>Sou estudante do curso de :mortar_board: <strong>Tecnologia em Análise e Desenvolvimento de Sistemas</strong>, trabalho atualmente como <strong>Analista de Dados</strong>. A cada dia busco aprender mais, seja Back End ou Front End, sempre buscando me superar! Já possuo certo conhecimento em algumas liguagens como <code>c++</code>, <code>php</code>, <code>python</code>, <code>Java</code>,<code>JavaScript</code>, dentre outras... Sou casado e tenho uma :family: maravilhosa, almejo grandes metas e almejo um maior aperfeiçoamento como programador e profissioal!.
 
 ![image](perfil-animation.gif)
 
