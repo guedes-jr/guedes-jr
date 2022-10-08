@@ -36,4 +36,4 @@
 <br />
 ## Meus Trabalhos e/ou Projetos
 <br />
-- :sunglasses: [Meu Portifólio](https://github.dev/guedes-jr/Portfolio)
+- :sunglasses: [Meu Portifólio] (https://github.dev/guedes-jr/Portfolio)
