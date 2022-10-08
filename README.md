@@ -40,7 +40,8 @@
 ### Front End
 ---
 <ul>
-  <li> :sunglasses: <a href='https://github.dev/guedes-jr/Portfolio'>Meu Portifólio</a></li>
+  <li> :sunglasses: <a href='https://github.dev/guedes-jr/Portfolio'>Meu Portfólio</a></li>
+  <li> :sunglasses: <a href='https://github.com/guedes-jr/Portfolio-Ninja'>Portfólio Ninja</a></li>
 </ul>
 
 ### Back End 
