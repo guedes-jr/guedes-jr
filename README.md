@@ -42,7 +42,7 @@
 <ul>
   <li> :sunglasses: <a href='https://github.dev/guedes-jr/Portfolio'>Meu Portfólio</a></li>
   <li> :eight_pointed_black_star: <a href='https://github.com/guedes-jr/Portfolio-Ninja'>Portfólio Ninja</a></li>
-  <li> :airplane: <a href='https://github.com/guedes-jr/Portfolio-Ninja'>Portfólio Ninja</a></li>
+  <li> :airplane: <a href='https://github.com/guedes-jr/Front_End-Travel'>Travel - Agência de Viagêns</a></li>
 </ul>
 
 ### Frameworks
