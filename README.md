@@ -54,5 +54,5 @@
 ### Outros
 ---
 <ul>
-  <li> ::books: <a href='https://github.com/guedes-jr/Markdown'>Markdown</a></li>
+  <li> :books: <a href='https://github.com/guedes-jr/Markdown'>Markdown</a></li>
 </ul>
