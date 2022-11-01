@@ -49,7 +49,7 @@
 ### Frameworks
 ---
 <ul>
-  <li> :computer: ...
+  <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/vite-original.svg" width=50/> Vite: a href='https://github.com/guedes-jr/ExplorerLab-RocketPay'>Rocket Pay</a>
 </ul>
 
 ### Outros
