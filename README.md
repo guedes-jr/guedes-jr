@@ -49,7 +49,7 @@
 ### Frameworks
 ---
 <ul>
-  <li> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvitejs.dev%2F&psig=AOvVaw12o8O-CQUfzSQLHYGwAGXE&ust=1667351007741000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKCf4Nbki_sCFQAAAAAdAAAAABAD" width=50/> Vite: a href='https://github.com/guedes-jr/ExplorerLab-RocketPay'>Rocket Pay</a>
+  <li> <img src="https://vitejs.dev/logo-with-shadow.png" width=50/> Vite: <a href='https://github.com/guedes-jr/ExplorerLab-RocketPay'>Rocket Pay</a>
 </ul>
 
 ### Outros
