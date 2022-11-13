@@ -44,13 +44,13 @@
   <li> :eight_pointed_black_star: <a href='https://github.com/guedes-jr/Portfolio-Ninja'>Portfólio Ninja</a></li>
   <li> :airplane: <a href='https://github.com/guedes-jr/Front_End-Travel'>Travel - Agência de Viagêns</a></li>
   <li> :scissors: <a href='https://github.com/guedes-jr/Origin-BeautySalon'>Origin - BeautySalon</a></li>
-  <li> :scissors: <a href='https://github.com/guedes-jr/NLW-Copa'>NLW - Copa</a></li>
+  <li> :soccer: <a href='https://github.com/guedes-jr/NLW-Copa'>NLW - Copa</a></li>
 </ul>
 
 ### Frameworks
 ---
 <ul>
-  <li> <img src="https://vitejs.dev/logo-with-shadow.png" width=50/> Vite: <a href='https://github.com/guedes-jr/ExplorerLab-RocketPay'>Rocket Pay</a>
+  <li> <img src="https://vitejs.dev/logo-with-shadow.png" width=20/> Vite: <a href='https://github.com/guedes-jr/ExplorerLab-RocketPay'>Rocket Pay</a>
 </ul>
 
 ### Outros
