@@ -51,7 +51,7 @@
 ---
 <ul>
   <li> <img src="https://vitejs.dev/logo-with-shadow.png" width=20/> Vite: <a href='https://github.com/guedes-jr/ExplorerLab-RocketPay'>Rocket Pay</a>
-  <li> <img src="https://vitejs.dev/logo-with-shadow.png" width=20/> Vite: <a href='https://github.com/guedes-jr/PyLab-seleti.ve'>PyLab - Seleti.VE</a>
+  <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=20/> Django: <a href='https://github.com/guedes-jr/PyLab-seleti.ve'>PyLab - Seleti.VE</a>
 </ul>
 
 ### Outros
