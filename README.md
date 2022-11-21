@@ -39,7 +39,7 @@
 
 ### Front End
 ---
-<ul>
+<ul style="list-style=none">
   <li> :sunglasses: <a href='https://github.dev/guedes-jr/Portfolio'>Meu Portfólio</a></li>
   <li> :eight_pointed_black_star: <a href='https://github.com/guedes-jr/Portfolio-Ninja'>Portfólio Ninja</a></li>
   <li> :airplane: <a href='https://github.com/guedes-jr/Front_End-Travel'>Travel - Agência de Viagêns</a></li>
@@ -49,13 +49,13 @@
 
 ### Frameworks
 ---
-<ul>
+<ul style="list-style=none">
   <li> <img src="https://vitejs.dev/logo-with-shadow.png" width=20/> Vite: <a href='https://github.com/guedes-jr/ExplorerLab-RocketPay'>Rocket Pay</a>
   <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=20/> Django: <a href='https://github.com/guedes-jr/PyLab-seleti.ve'>PyLab - Seleti.VE</a>
 </ul>
 
 ### Outros
 ---
-<ul>
+<ul style="list-style=none">
   <li> :books: <a href='https://github.com/guedes-jr/Markdown'>Markdown</a></li>
 </ul>
