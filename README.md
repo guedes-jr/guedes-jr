@@ -56,6 +56,8 @@
   <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=20/>Django: <a href='https://github.com/guedes-jr/PyStack-Adote.'>PyStack - Adote</a></li>
   <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=20/> React: <a href='https://github.com/guedes-jr/React-AluraTube'>AluraTube</a></li>
   <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width=20/> Nest: <a href='https://github.com/guedes-jr/Ignite_Lab-notifications'>Ignite Lab - Notifications</a></li>
+  <li> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3ALaravel.svg&psig=AOvVaw04bg5_wCdGAiWjekKIw4GJ&ust=1676920241862000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjXiuykov0CFQAAAAAdAAAAABAE" width=20/> Nest: <a href='https://github.com/guedes-jr/OLW-Dashboard'>OLW - Dashboard</a></li>
+  <li> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdotnet.microsoft.com%2F&psig=AOvVaw0oBJA2LHLBldVFJ93clyRv&ust=1676920382080000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOiZ966lov0CFQAAAAAdAAAAABAE" width=20/> Nest: <a href='https://github.com/guedes-jr/Ignite_Lab-notifications'>.Net - CRUD</a></li>
 </ul>
 
 ### Jogos
