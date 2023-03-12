@@ -59,6 +59,7 @@
   <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width=20/> Laravel: <a href='https://github.com/guedes-jr/OLW-Dashboard'>OLW - Dashboard</a></li>
   <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" width=20/> .NET WebApp: <a href='https://github.com/guedes-jr/.net-CRUD-AppWeb'>CRUD Basico</a></li>
   <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" width=20/> .NET Blazor: <a href='https://github.com/guedes-jr/.net-BlazingPizza'>Blazing Pizza</a></li>
+  <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/800px-Vue.js_Logo_2.svg.png" width=20/> VueJS: <a href='https://github.com/guedes-jr/VueJS-Calc'>Calc</a></li>
 </ul>
 
 ### Jogos
