@@ -47,6 +47,7 @@
   <li> :soccer: <a href='https://github.com/guedes-jr/NLW-Copa'>NLW - Copa</a></li>
   <li> :mortar_board: <a href='https://github.com/guedes-jr/Educa.'>Educa.</a></li>
   <li> :gem: <a href='https://github.com/guedes-jr/E-comerceTemplate'>.Loja</a></li>
+  <li> :musical_note: <a href='https://github.com/guedes-jr/LandingPageToms'>Landing Page | Banda Jazz</a></li>
 </ul>
 
 ### Frameworks
