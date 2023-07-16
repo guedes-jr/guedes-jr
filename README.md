@@ -57,6 +57,7 @@
   <li> <img src="https://vitejs.dev/logo-with-shadow.png" width=20/> Vite: <a href='https://github.com/guedes-jr/ExplorerLab-RocketPay'>Explorer Lab - Rocket Pay</a></li>
   <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=20/>Django: <a href='https://github.com/guedes-jr/PyLab-seleti.ve'>PyLab - Seleti.VE</a></li>
   <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=20/>Django: <a href='https://github.com/guedes-jr/PyStack-Adote.'>PyStack - Adote</a></li>
+  <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=20/>Django: <a href='https://github.com/guedes-jr/PSW7-Finance'>PSW7 - Finance</a></li>
   <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=20/> React: <a href='https://github.com/guedes-jr/React-AluraTube'>AluraTube</a></li>
   <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width=20/> Nest: <a href='https://github.com/guedes-jr/Ignite_Lab-notifications'>Ignite Lab - Notifications</a></li>
   <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width=20/> Laravel: <a href='https://github.com/guedes-jr/OLW-Dashboard'>OLW - Dashboard</a></li>
