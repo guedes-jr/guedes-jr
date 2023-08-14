@@ -40,7 +40,7 @@
 ### Front End
 ---
 <ul style="list-style=none">
-  <li> :sunglasses: <a href='https://github.dev/guedes-jr/Portfolio'>Meu Portfólio</a></li>
+  <li> :sunglasses: <a href='https://github.com/guedes-jr/Portfolio'>Meu Portfólio</a></li>
   <li> :eight_pointed_black_star: <a href='https://github.com/guedes-jr/Portfolio-Ninja'>Portfólio Ninja</a></li>
   <li> :airplane: <a href='https://github.com/guedes-jr/Front_End-Travel'>Travel - Agência de Viagêns</a></li>
   <li> :scissors: <a href='https://github.com/guedes-jr/Origin-BeautySalon'>Origin - BeautySalon</a></li>
