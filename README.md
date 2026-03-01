@@ -114,135 +114,69 @@ Busco constantemente evoluir tecnicamente, explorando novas arquiteturas, integr
 
 <!-- AUTO-GENERATED:FEATURED_PROJECTS_START -->
 
-<style>
-.featured-container {
-  display:grid;
-  grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
-  gap:16px;
-}
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
-.project-card{
-  border-radius:12px;
-  padding:16px;
-  background:#0d1117;
-  border:1px solid #30363d;
-  transition:.2s;
-}
+### [guedes-jr](https://github.com/guedes-jr/guedes-jr)
 
-.project-card:hover{
-  transform:translateY(-4px);
-}
-
-.project-title{
-  font-weight:bold;
-  color:#58a6ff;
-  text-decoration:none;
-}
-
-.project-desc{
-  font-size:13px;
-  color:#8b949e;
-  margin:8px 0;
-}
-
-.project-meta{
-  font-size:12px;
-  color:#8b949e;
-}
-</style>
-
-<div class="featured-container">
-
-<div class="project-card">
-<a class="project-title" href="https://github.com/guedes-jr/guedes-jr">
-guedes-jr
-</a>
-
-<div class="project-desc">
 MyPerfil
-</div>
 
-<div class="project-meta">
-⭐ 0 | 🍴 0 | 🧠 N/A
-</div>
-</div>
+⭐ 0 • 🍴 0 • 🧠 N/A
 
+</td>
 
-<div class="project-card">
-<a class="project-title" href="https://github.com/guedes-jr/Angular-gerador-certificado">
-Angular-gerador-certificado
-</a>
+<td width="33%" valign="top">
 
-<div class="project-desc">
+### [Angular-gerador-certificado](https://github.com/guedes-jr/Angular-gerador-certificado)
+
 Sem descrição disponível
-</div>
 
-<div class="project-meta">
-⭐ 0 | 🍴 0 | 🧠 CSS
-</div>
-</div>
+⭐ 0 • 🍴 0 • 🧠 CSS
 
+</td>
 
-<div class="project-card">
-<a class="project-title" href="https://github.com/guedes-jr/Django-Nexjs_ConectadoEmQuestoes">
-Django-Nexjs_ConectadoEmQuestoes
-</a>
+<td width="33%" valign="top">
 
-<div class="project-desc">
+### [Django-Nexjs_ConectadoEmQuestoes](https://github.com/guedes-jr/Django-Nexjs_ConectadoEmQuestoes)
+
 Projeto Django (backend) mais NexJS (frontend), visando desenvolvimento de sistema assinantes para estudantes de concursos.
-</div>
 
-<div class="project-meta">
-⭐ 0 | 🍴 0 | 🧠 TypeScript
-</div>
-</div>
+⭐ 0 • 🍴 0 • 🧠 TypeScript
 
+</td>
+</tr><tr>
+<td width="33%" valign="top">
 
-<div class="project-card">
-<a class="project-title" href="https://github.com/guedes-jr/Markdown">
-Markdown
-</a>
+### [Markdown](https://github.com/guedes-jr/Markdown)
 
-<div class="project-desc">
 Repositório de orientação a formatação de arquivos markdown
-</div>
 
-<div class="project-meta">
-⭐ 3 | 🍴 1 | 🧠 CSS
-</div>
-</div>
+⭐ 3 • 🍴 1 • 🧠 CSS
 
+</td>
 
-<div class="project-card">
-<a class="project-title" href="https://github.com/guedes-jr/Dio-desafio_python">
-Dio-desafio_python
-</a>
+<td width="33%" valign="top">
 
-<div class="project-desc">
+### [Dio-desafio_python](https://github.com/guedes-jr/Dio-desafio_python)
+
 Material de Estudo e projetos realizados na Formação Python da DIO
-</div>
 
-<div class="project-meta">
-⭐ 0 | 🍴 0 | 🧠 Python
-</div>
-</div>
+⭐ 0 • 🍴 0 • 🧠 Python
 
+</td>
 
-<div class="project-card">
-<a class="project-title" href="https://github.com/guedes-jr/Vite-RoomVent">
-Vite-RoomVent
-</a>
+<td width="33%" valign="top">
 
-<div class="project-desc">
+### [Vite-RoomVent](https://github.com/guedes-jr/Vite-RoomVent)
+
 Projeto de remodelagem de design do site atual da empresa RoomVent
-</div>
 
-<div class="project-meta">
-⭐ 0 | 🍴 0 | 🧠 TypeScript
-</div>
-</div>
+⭐ 0 • 🍴 0 • 🧠 TypeScript
 
-</div>
+</td>
+</tr>
+</table>
 
 <!-- AUTO-GENERATED:FEATURED_PROJECTS_END -->
 
@@ -252,404 +186,215 @@ Projeto de remodelagem de design do site atual da empresa RoomVent
 
 <!-- AUTO-GENERATED:PROJECTS_START -->
 
-<h3>🧠 C#</h3>
-<ul>
-<li>
-<a href="https://github.com/guedes-jr/.net-CRUD-AppWeb">
-.net-CRUD-AppWeb
-</a> — Sem descrição
-</li>
-</ul>
-<h3>🧠 CSS</h3>
-<ul>
-<li>
-<a href="https://github.com/guedes-jr/.net-BlazingPizza">
-.net-BlazingPizza
-</a> — Projeto Front-End desenvolvido usando a a aplicação BlazorMvc do .Net
-</li>
+## 🧠 C#
 
-<li>
-<a href="https://github.com/guedes-jr/Angular-gerador-certificado">
-Angular-gerador-certificado
-</a> — Sem descrição
-</li>
+- **[.net-CRUD-AppWeb](https://github.com/guedes-jr/.net-CRUD-AppWeb)**
+  - Sem descrição
 
-<li>
-<a href="https://github.com/guedes-jr/django-bootstrapp-corona">
-django-bootstrapp-corona
-</a> — Sem descrição
-</li>
+## 🧠 CSS
 
-<li>
-<a href="https://github.com/guedes-jr/django-my-finances">
-django-my-finances
-</a> — Sem descrição
-</li>
+- **[Markdown](https://github.com/guedes-jr/Markdown)**
+  - Repositório de orientação a formatação de arquivos markdown
 
-<li>
-<a href="https://github.com/guedes-jr/InDecor">
-InDecor
-</a> — Sem descrição
-</li>
+- **[.net-BlazingPizza](https://github.com/guedes-jr/.net-BlazingPizza)**
+  - Projeto Front-End desenvolvido usando a a aplicação BlazorMvc do .Net
 
-<li>
-<a href="https://github.com/guedes-jr/Markdown">
-Markdown
-</a> — Repositório de orientação a formatação de arquivos markdown
-</li>
+- **[Angular-gerador-certificado](https://github.com/guedes-jr/Angular-gerador-certificado)**
+  - Sem descrição
 
-<li>
-<a href="https://github.com/guedes-jr/NLW-Copa">
-NLW-Copa
-</a> — Calendário de Jogos da Copa
-</li>
+- **[django-bootstrapp-corona](https://github.com/guedes-jr/django-bootstrapp-corona)**
+  - Sem descrição
 
-<li>
-<a href="https://github.com/guedes-jr/Portfolio-Ninja">
-Portfolio-Ninja
-</a> — Modelo simples de portfólio para quem está iniciando no estudo de front end
-</li>
-</ul>
-<h3>🧠 Go</h3>
-<ul>
-<li>
-<a href="https://github.com/guedes-jr/Dio-desafio_go">
-Dio-desafio_go
-</a> — Desafio desenvolvido em go durante curso da Dio
-</li>
+- **[django-my-finances](https://github.com/guedes-jr/django-my-finances)**
+  - Sem descrição
 
-<li>
-<a href="https://github.com/guedes-jr/go-project_structure">
-go-project_structure
-</a> — Estrutura e organização basica para projetos em GO
-</li>
-</ul>
-<h3>🧠 HTML</h3>
-<ul>
-<li>
-<a href="https://github.com/guedes-jr/Educa.">
-Educa.
-</a> — Sem descrição
-</li>
+- **[InDecor](https://github.com/guedes-jr/InDecor)**
+  - Sem descrição
 
-<li>
-<a href="https://github.com/guedes-jr/ExplorerLab-RocketPay">
-ExplorerLab-RocketPay
-</a> — Sem descrição
-</li>
+- **[NLW-Copa](https://github.com/guedes-jr/NLW-Copa)**
+  - Calendário de Jogos da Copa
 
-<li>
-<a href="https://github.com/guedes-jr/FitClub">
-FitClub
-</a> — Landing Page FitClub
-</li>
+- **[Portfolio-Ninja](https://github.com/guedes-jr/Portfolio-Ninja)**
+  - Modelo simples de portfólio para quem está iniciando no estudo de front end
 
-<li>
-<a href="https://github.com/guedes-jr/Front_End-Travel">
-Front_End-Travel
-</a> — Projeto front end de uma página de agência de viagens
-</li>
+## 🧠 Go
 
-<li>
-<a href="https://github.com/guedes-jr/Ignite_Lab-notifications">
-Ignite_Lab-notifications
-</a> — Sem descrição
-</li>
+- **[Dio-desafio_go](https://github.com/guedes-jr/Dio-desafio_go)**
+  - Desafio desenvolvido em go durante curso da Dio
 
-<li>
-<a href="https://github.com/guedes-jr/LandingPageToms">
-LandingPageToms
-</a> — Landing Page Banda de Jazz
-</li>
+- **[go-project_structure](https://github.com/guedes-jr/go-project_structure)**
+  - Estrutura e organização basica para projetos em GO
 
-<li>
-<a href="https://github.com/guedes-jr/Origin-BeautySalon">
-Origin-BeautySalon
-</a> — Landing Page Para são de produtos naturais
-</li>
+## 🧠 HTML
 
-<li>
-<a href="https://github.com/guedes-jr/Portfolio">
-Portfolio
-</a> — Meu Portfólio
-</li>
+- **[Educa.](https://github.com/guedes-jr/Educa.)**
+  - Sem descrição
 
-<li>
-<a href="https://github.com/guedes-jr/Social">
-Social
-</a> — Demo
-</li>
+- **[ExplorerLab-RocketPay](https://github.com/guedes-jr/ExplorerLab-RocketPay)**
+  - Sem descrição
 
-<li>
-<a href="https://github.com/guedes-jr/Template-Educacao">
-Template-Educacao
-</a> — Template Front-End de page relacionada a Educação
-</li>
+- **[FitClub](https://github.com/guedes-jr/FitClub)**
+  - Landing Page FitClub
 
-<li>
-<a href="https://github.com/guedes-jr/TemplateLPModel">
-TemplateLPModel
-</a> — Template base para Landing page de apresentação de um App
-</li>
+- **[Front_End-Travel](https://github.com/guedes-jr/Front_End-Travel)**
+  - Projeto front end de uma página de agência de viagens
 
-<li>
-<a href="https://github.com/guedes-jr/TemplateTravelAdventure">
-TemplateTravelAdventure
-</a> — Template de Agência de viagens focada em público aventureiro
-</li>
-</ul>
-<h3>🧠 JavaScript</h3>
-<ul>
-<li>
-<a href="https://github.com/guedes-jr/ConvertPro">
-ConvertPro
-</a> — Sem descrição
-</li>
+- **[Ignite_Lab-notifications](https://github.com/guedes-jr/Ignite_Lab-notifications)**
+  - Sem descrição
 
-<li>
-<a href="https://github.com/guedes-jr/django-ConectadoEmQuestoes">
-django-ConectadoEmQuestoes
-</a> — Projeto django de quizz de questões
-</li>
+- **[LandingPageToms](https://github.com/guedes-jr/LandingPageToms)**
+  - Landing Page Banda de Jazz
 
-<li>
-<a href="https://github.com/guedes-jr/React-AluraTube">
-React-AluraTube
-</a> — Sem descrição
-</li>
-</ul>
-<h3>🧠 Outros</h3>
-<ul>
-<li>
-<a href="https://github.com/guedes-jr/Go-API_Trips">
-Go-API_Trips
-</a> — API desenvolvida em GO para gerenciamento de Viagens
-</li>
+- **[Origin-BeautySalon](https://github.com/guedes-jr/Origin-BeautySalon)**
+  - Landing Page Para são de produtos naturais
 
-<li>
-<a href="https://github.com/guedes-jr/guedes-jr">
-guedes-jr
-</a> — MyPerfil
-</li>
+- **[Portfolio](https://github.com/guedes-jr/Portfolio)**
+  - Meu Portfólio
 
-<li>
-<a href="https://github.com/guedes-jr/load_data">
-load_data
-</a> — Sem descrição
-</li>
-</ul>
-<h3>🧠 Python</h3>
-<ul>
-<li>
-<a href="https://github.com/guedes-jr/agenda">
-agenda
-</a> — Sem descrição
-</li>
+- **[Social](https://github.com/guedes-jr/Social)**
+  - Demo
 
-<li>
-<a href="https://github.com/guedes-jr/Dio-desafio_python">
-Dio-desafio_python
-</a> — Material de Estudo e projetos realizados na Formação Python da DIO
-</li>
+- **[Template-Educacao](https://github.com/guedes-jr/Template-Educacao)**
+  - Template Front-End de page relacionada a Educação
 
-<li>
-<a href="https://github.com/guedes-jr/django-livraria">
-django-livraria
-</a> — Sem descrição
-</li>
+- **[TemplateLPModel](https://github.com/guedes-jr/TemplateLPModel)**
+  - Template base para Landing page de apresentação de um App
 
-<li>
-<a href="https://github.com/guedes-jr/django-NutriLab">
-django-NutriLab
-</a> — Projeto Python e Django para gerenciamento de clientes de uma nutricionista.
-</li>
+- **[TemplateTravelAdventure](https://github.com/guedes-jr/TemplateTravelAdventure)**
+  - Template de Agência de viagens focada em público aventureiro
 
-<li>
-<a href="https://github.com/guedes-jr/django-store-delizandra">
-django-store-delizandra
-</a> — Projeto django + django restapi + vitejs
-</li>
+## 🧠 JavaScript
 
-<li>
-<a href="https://github.com/guedes-jr/ETL-Python-API-jikan">
-ETL-Python-API-jikan
-</a> — Sem descrição
-</li>
+- **[ConvertPro](https://github.com/guedes-jr/ConvertPro)**
+  - Sem descrição
 
-<li>
-<a href="https://github.com/guedes-jr/infografico_med">
-infografico_med
-</a> — Sem descrição
-</li>
+- **[django-ConectadoEmQuestoes](https://github.com/guedes-jr/django-ConectadoEmQuestoes)**
+  - Projeto django de quizz de questões
 
-<li>
-<a href="https://github.com/guedes-jr/LearnUp">
-LearnUp
-</a> — Sem descrição
-</li>
+- **[React-AluraTube](https://github.com/guedes-jr/React-AluraTube)**
+  - Sem descrição
 
-<li>
-<a href="https://github.com/guedes-jr/nlw-journey-python">
-nlw-journey-python
-</a> — Sem descrição
-</li>
+## 🧠 Outros
 
-<li>
-<a href="https://github.com/guedes-jr/PSW7-Finance">
-PSW7-Finance
-</a> — Sem descrição
-</li>
+- **[Go-API_Trips](https://github.com/guedes-jr/Go-API_Trips)**
+  - API desenvolvida em GO para gerenciamento de Viagens
 
-<li>
-<a href="https://github.com/guedes-jr/PyLab-seleti.ve">
-PyLab-seleti.ve
-</a> — Demo
-</li>
+- **[guedes-jr](https://github.com/guedes-jr/guedes-jr)**
+  - MyPerfil
 
-<li>
-<a href="https://github.com/guedes-jr/PyStack-Adote.">
-PyStack-Adote.
-</a> — Sem descrição
-</li>
+- **[load_data](https://github.com/guedes-jr/load_data)**
+  - Sem descrição
 
-<li>
-<a href="https://github.com/guedes-jr/python-email_sender">
-python-email_sender
-</a> — Sem descrição
-</li>
+## 🧠 Python
 
-<li>
-<a href="https://github.com/guedes-jr/python-PrintScreenDriver">
-python-PrintScreenDriver
-</a> — Sem descrição
-</li>
+- **[agenda](https://github.com/guedes-jr/agenda)**
+  - Sem descrição
 
-<li>
-<a href="https://github.com/guedes-jr/Task_Manager-Streamlit">
-Task_Manager-Streamlit
-</a> — Sem descrição
-</li>
-</ul>
-<h3>🧠 SCSS</h3>
-<ul>
-<li>
-<a href="https://github.com/guedes-jr/Dashboard">
-Dashboard
-</a> — Template de Dashboard
-</li>
-</ul>
-<h3>🧠 TypeScript</h3>
-<ul>
-<li>
-<a href="https://github.com/guedes-jr/angular-blog">
-angular-blog
-</a> — A blog project created with angular based on dribbble layout
-</li>
+- **[Dio-desafio_python](https://github.com/guedes-jr/Dio-desafio_python)**
+  - Material de Estudo e projetos realizados na Formação Python da DIO
 
-<li>
-<a href="https://github.com/guedes-jr/angular-psn-store">
-angular-psn-store
-</a> — A PlayStation Store clone project created with Angular.
-</li>
+- **[django-livraria](https://github.com/guedes-jr/django-livraria)**
+  - Sem descrição
 
-<li>
-<a href="https://github.com/guedes-jr/Aranhaverso">
-Aranhaverso
-</a> — Sem descrição
-</li>
+- **[django-NutriLab](https://github.com/guedes-jr/django-NutriLab)**
+  - Projeto Python e Django para gerenciamento de clientes de uma nutricionista.
 
-<li>
-<a href="https://github.com/guedes-jr/Car-Dealership">
-Car-Dealership
-</a> — Sem descrição
-</li>
+- **[django-store-delizandra](https://github.com/guedes-jr/django-store-delizandra)**
+  - Projeto django + django restapi + vitejs
 
-<li>
-<a href="https://github.com/guedes-jr/CodeCraft-IDE">
-CodeCraft-IDE
-</a> — Editor de Código Online
-</li>
+- **[ETL-Python-API-jikan](https://github.com/guedes-jr/ETL-Python-API-jikan)**
+  - Sem descrição
 
-<li>
-<a href="https://github.com/guedes-jr/Django-Nexjs_ConectadoEmQuestoes">
-Django-Nexjs_ConectadoEmQuestoes
-</a> — Projeto Django (backend) mais NexJS (frontend), visando desenvolvimento de sistema assinantes para estudantes de concursos.
-</li>
+- **[infografico_med](https://github.com/guedes-jr/infografico_med)**
+  - Sem descrição
 
-<li>
-<a href="https://github.com/guedes-jr/django-nextjs-airbnb">
-django-nextjs-airbnb
-</a> — Sem descrição
-</li>
+- **[LearnUp](https://github.com/guedes-jr/LearnUp)**
+  - Sem descrição
 
-<li>
-<a href="https://github.com/guedes-jr/django_next_auth">
-django_next_auth
-</a> — Sem descrição
-</li>
+- **[nlw-journey-python](https://github.com/guedes-jr/nlw-journey-python)**
+  - Sem descrição
 
-<li>
-<a href="https://github.com/guedes-jr/learn_nextjs-dashboard">
-learn_nextjs-dashboard
-</a> — Sem descrição
-</li>
+- **[PSW7-Finance](https://github.com/guedes-jr/PSW7-Finance)**
+  - Sem descrição
 
-<li>
-<a href="https://github.com/guedes-jr/Next.JS-RoomVent">
-Next.JS-RoomVent
-</a> — Sem descrição
-</li>
+- **[PyLab-seleti.ve](https://github.com/guedes-jr/PyLab-seleti.ve)**
+  - Demo
 
-<li>
-<a href="https://github.com/guedes-jr/Nextjs-Figma_Clone">
-Nextjs-Figma_Clone
-</a> — Sem descrição
-</li>
+- **[PyStack-Adote.](https://github.com/guedes-jr/PyStack-Adote.)**
+  - Sem descrição
 
-<li>
-<a href="https://github.com/guedes-jr/Nextjs-TradeCripto">
-Nextjs-TradeCripto
-</a> — Sem descrição
-</li>
+- **[python-email_sender](https://github.com/guedes-jr/python-email_sender)**
+  - Sem descrição
 
-<li>
-<a href="https://github.com/guedes-jr/personal-financial-manager">
-personal-financial-manager
-</a> — Sem descrição
-</li>
+- **[python-PrintScreenDriver](https://github.com/guedes-jr/python-PrintScreenDriver)**
+  - Sem descrição
 
-<li>
-<a href="https://github.com/guedes-jr/Portfolio-nextjs">
-Portfolio-nextjs
-</a> — Sem descrição
-</li>
+- **[Task_Manager-Streamlit](https://github.com/guedes-jr/Task_Manager-Streamlit)**
+  - Sem descrição
 
-<li>
-<a href="https://github.com/guedes-jr/PortfolioX">
-PortfolioX
-</a> — Sem descrição
-</li>
+## 🧠 SCSS
 
-<li>
-<a href="https://github.com/guedes-jr/Vite-RoomVent">
-Vite-RoomVent
-</a> — Projeto de remodelagem de design do site atual da empresa RoomVent
-</li>
+- **[Dashboard](https://github.com/guedes-jr/Dashboard)**
+  - Template de Dashboard
 
-<li>
-<a href="https://github.com/guedes-jr/workshop-nextauth">
-workshop-nextauth
-</a> — Sem descrição
-</li>
-</ul>
-<h3>🧠 Vue</h3>
-<ul>
-<li>
-<a href="https://github.com/guedes-jr/VueJS-Calc">
-VueJS-Calc
-</a> — Demo
-</li>
-</ul>
+## 🧠 TypeScript
+
+- **[angular-blog](https://github.com/guedes-jr/angular-blog)**
+  - A blog project created with angular based on dribbble layout
+
+- **[angular-psn-store](https://github.com/guedes-jr/angular-psn-store)**
+  - A PlayStation Store clone project created with Angular.
+
+- **[Aranhaverso](https://github.com/guedes-jr/Aranhaverso)**
+  - Sem descrição
+
+- **[Car-Dealership](https://github.com/guedes-jr/Car-Dealership)**
+  - Sem descrição
+
+- **[CodeCraft-IDE](https://github.com/guedes-jr/CodeCraft-IDE)**
+  - Editor de Código Online
+
+- **[Django-Nexjs_ConectadoEmQuestoes](https://github.com/guedes-jr/Django-Nexjs_ConectadoEmQuestoes)**
+  - Projeto Django (backend) mais NexJS (frontend), visando desenvolvimento de sistema assinantes para estudantes de concursos.
+
+- **[django-nextjs-airbnb](https://github.com/guedes-jr/django-nextjs-airbnb)**
+  - Sem descrição
+
+- **[django_next_auth](https://github.com/guedes-jr/django_next_auth)**
+  - Sem descrição
+
+- **[learn_nextjs-dashboard](https://github.com/guedes-jr/learn_nextjs-dashboard)**
+  - Sem descrição
+
+- **[Next.JS-RoomVent](https://github.com/guedes-jr/Next.JS-RoomVent)**
+  - Sem descrição
+
+- **[Nextjs-Figma_Clone](https://github.com/guedes-jr/Nextjs-Figma_Clone)**
+  - Sem descrição
+
+- **[Nextjs-TradeCripto](https://github.com/guedes-jr/Nextjs-TradeCripto)**
+  - Sem descrição
+
+- **[personal-financial-manager](https://github.com/guedes-jr/personal-financial-manager)**
+  - Sem descrição
+
+- **[Portfolio-nextjs](https://github.com/guedes-jr/Portfolio-nextjs)**
+  - Sem descrição
+
+- **[PortfolioX](https://github.com/guedes-jr/PortfolioX)**
+  - Sem descrição
+
+- **[Vite-RoomVent](https://github.com/guedes-jr/Vite-RoomVent)**
+  - Projeto de remodelagem de design do site atual da empresa RoomVent
+
+- **[workshop-nextauth](https://github.com/guedes-jr/workshop-nextauth)**
+  - Sem descrição
+
+## 🧠 Vue
+
+- **[VueJS-Calc](https://github.com/guedes-jr/VueJS-Calc)**
+  - Demo
+
 <!-- AUTO-GENERATED:PROJECTS_END -->
 
 ---
