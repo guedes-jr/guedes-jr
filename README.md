@@ -20,14 +20,14 @@ No dia a dia, atuo principalmente com desenvolvimento backend, criação de APIs
 Ao longo da minha trajetória, venho participando da criação e evolução de sistemas web, ferramentas internas e soluções voltadas à otimização de processos, sempre buscando código limpo, boas práticas e melhorias contínuas 📈
 
 🚀 Tecnologias e áreas que fazem parte do meu dia a dia:
-🐍 Python e Django
-🔗 Desenvolvimento Backend e APIs REST
-🤖 Automação de processos
-📊 Análise de dados e pipelines ETL
-🗄️ Integração e modelagem de dados
-🔄 Integração entre sistemas e serviços
-🧩 Levantamento e análise de requisitos
-🖥️ Desenvolvimento de sistemas corporativos
+ - 🐍 Python e Django
+ - 🔗 Desenvolvimento Backend e APIs REST
+ - 🤖 Automação de processos
+ - 📊 Análise de dados e pipelines ETL
+ - 🗄️ Integração e modelagem de dados
+ - 🔄 Integração entre sistemas e serviços
+ - 🧩 Levantamento e análise de requisitos
+ - 🖥️ Desenvolvimento de sistemas corporativos
 
 Gosto de aprender constantemente, testar novas ideias e usar tecnologia como ferramenta para resolver problemas reais 🧠✨
 Sempre aberto a novos desafios, colaborações e projetos interessantes 🤝
@@ -81,61 +81,176 @@ Sempre aberto a novos desafios, colaborações e projetos interessantes 🤝
 <tr>
 <td width="33%" valign="top">
 
-### [Angular-gerador-certificado](https://github.com/guedes-jr/Angular-gerador-certificado)
+<div style="
+border-radius:12px;
+padding:16px;
+border:1px solid #30363d;
+background-color:#0d1117;
+height:180px;
+">
 
+<h3>
+<a href="https://github.com/guedes-jr/Angular-gerador-certificado"
+style="color:#58a6ff;text-decoration:none;">
+Angular-gerador-certificado
+</a>
+</h3>
+
+<p style="color:#8b949e;font-size:14px;">
 Sem descrição disponível
+</p>
 
+<p style="color:#8b949e;font-size:12px;">
 ⭐ 0 • 🍴 0 • 🧠 CSS
+</p>
+
+</div>
 
 </td>
 
 <td width="33%" valign="top">
 
-### [Django-Nexjs_ConectadoEmQuestoes](https://github.com/guedes-jr/Django-Nexjs_ConectadoEmQuestoes)
+<div style="
+border-radius:12px;
+padding:16px;
+border:1px solid #30363d;
+background-color:#0d1117;
+height:180px;
+">
 
+<h3>
+<a href="https://github.com/guedes-jr/Django-Nexjs_ConectadoEmQuestoes"
+style="color:#58a6ff;text-decoration:none;">
+Django-Nexjs_ConectadoEmQuestoes
+</a>
+</h3>
+
+<p style="color:#8b949e;font-size:14px;">
 Projeto Django (backend) mais NexJS (frontend), visando desenvolvimento de sistema assinantes para estudantes de concursos.
+</p>
 
+<p style="color:#8b949e;font-size:12px;">
 ⭐ 0 • 🍴 0 • 🧠 TypeScript
+</p>
+
+</div>
 
 </td>
 
 <td width="33%" valign="top">
 
-### [Markdown](https://github.com/guedes-jr/Markdown)
+<div style="
+border-radius:12px;
+padding:16px;
+border:1px solid #30363d;
+background-color:#0d1117;
+height:180px;
+">
 
+<h3>
+<a href="https://github.com/guedes-jr/Markdown"
+style="color:#58a6ff;text-decoration:none;">
+Markdown
+</a>
+</h3>
+
+<p style="color:#8b949e;font-size:14px;">
 Repositório de orientação a formatação de arquivos markdown
+</p>
 
+<p style="color:#8b949e;font-size:12px;">
 ⭐ 3 • 🍴 1 • 🧠 CSS
+</p>
+
+</div>
 
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
-### [Dio-desafio_python](https://github.com/guedes-jr/Dio-desafio_python)
+<div style="
+border-radius:12px;
+padding:16px;
+border:1px solid #30363d;
+background-color:#0d1117;
+height:180px;
+">
 
+<h3>
+<a href="https://github.com/guedes-jr/Dio-desafio_python"
+style="color:#58a6ff;text-decoration:none;">
+Dio-desafio_python
+</a>
+</h3>
+
+<p style="color:#8b949e;font-size:14px;">
 Material de Estudo e projetos realizados na Formação Python da DIO
+</p>
 
+<p style="color:#8b949e;font-size:12px;">
 ⭐ 0 • 🍴 0 • 🧠 Python
+</p>
+
+</div>
 
 </td>
 
 <td width="33%" valign="top">
 
-### [Vite-RoomVent](https://github.com/guedes-jr/Vite-RoomVent)
+<div style="
+border-radius:12px;
+padding:16px;
+border:1px solid #30363d;
+background-color:#0d1117;
+height:180px;
+">
 
+<h3>
+<a href="https://github.com/guedes-jr/Vite-RoomVent"
+style="color:#58a6ff;text-decoration:none;">
+Vite-RoomVent
+</a>
+</h3>
+
+<p style="color:#8b949e;font-size:14px;">
 Projeto de remodelagem de design do site atual da empresa RoomVent
+</p>
 
+<p style="color:#8b949e;font-size:12px;">
 ⭐ 0 • 🍴 0 • 🧠 TypeScript
+</p>
+
+</div>
 
 </td>
 
 <td width="33%" valign="top">
 
-### [Next.JS-RoomVent](https://github.com/guedes-jr/Next.JS-RoomVent)
+<div style="
+border-radius:12px;
+padding:16px;
+border:1px solid #30363d;
+background-color:#0d1117;
+height:180px;
+">
 
+<h3>
+<a href="https://github.com/guedes-jr/Next.JS-RoomVent"
+style="color:#58a6ff;text-decoration:none;">
+Next.JS-RoomVent
+</a>
+</h3>
+
+<p style="color:#8b949e;font-size:14px;">
 Sem descrição disponível
+</p>
 
+<p style="color:#8b949e;font-size:12px;">
 ⭐ 0 • 🍴 0 • 🧠 TypeScript
+</p>
+
+</div>
 
 </td>
 </tr>
