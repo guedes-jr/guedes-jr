@@ -73,10 +73,10 @@ Sempre aberto a novos desafios, colaborações e projetos interessantes 🤝
 
 <p align="center">
   <img height="170"
-    src="https://github-readme-stats.vercel.app/api?username=guedes-jr&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" />
+    src="https://github-readme-stats.vercel.app/api?username=guedes-jr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
 
   <img height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes-jr&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes-jr&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
