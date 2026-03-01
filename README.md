@@ -34,46 +34,277 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <br />
 <br />
-## Meus Trabalhos e/ou Projetos
-<br />
+## 🚀 Meus Projetos
 
-### Front End
----
-<ul style="list-style=none">
-  <li> :sunglasses: <a href='https://github.com/guedes-jr/Portfolio'>Meu Portfólio</a></li>
-  <li> :eight_pointed_black_star: <a href='https://github.com/guedes-jr/Portfolio-Ninja'>Portfólio Ninja</a></li>
-  <li> :airplane: <a href='https://github.com/guedes-jr/Front_End-Travel'>Travel - Agência de Viagêns</a></li>
-  <li> :scissors: <a href='https://github.com/guedes-jr/Origin-BeautySalon'>Origin - BeautySalon</a></li>
-  <li> :soccer: <a href='https://github.com/guedes-jr/NLW-Copa'>NLW - Copa</a></li>
-  <li> :mortar_board: <a href='https://github.com/guedes-jr/Educa.'>Educa.</a></li>
-  <li> :gem: <a href='https://github.com/guedes-jr/E-comerceTemplate'>.Loja</a></li>
-  <li> :musical_note: <a href='https://github.com/guedes-jr/LandingPageToms'>Landing Page | Banda Jazz</a></li>
-  <li> 🤖 <a href='https://github.com/guedes-jr/Social'>Social</a></li>
-</ul>
+<!-- AUTO-GENERATED-START -->
+<hr/><h2 align='center'>⭐ Projetos em Destaque</h2><table><tr>
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/Educa.">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=Educa.&theme=transparent"/>
+</a>
+</td>
 
-### Frameworks
----
-<ul style="list-style=none">
-  <li> <img src="https://vitejs.dev/logo-with-shadow.png" width=20/> Vite: <a href='https://github.com/guedes-jr/ExplorerLab-RocketPay'>Explorer Lab - Rocket Pay</a></li>
-  <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=20/>Django: <a href='https://github.com/guedes-jr/PyLab-seleti.ve'>PyLab - Seleti.VE</a></li>
-  <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=20/>Django: <a href='https://github.com/guedes-jr/PyStack-Adote.'>PyStack - Adote</a></li>
-  <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=20/>Django: <a href='https://github.com/guedes-jr/PSW7-Finance'>PSW7 - Finance</a></li>
-  <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=20/> React: <a href='https://github.com/guedes-jr/React-AluraTube'>AluraTube</a></li>
-  <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width=20/> Nest: <a href='https://github.com/guedes-jr/Ignite_Lab-notifications'>Ignite Lab - Notifications</a></li>
-  <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width=20/> Laravel: <a href='https://github.com/guedes-jr/OLW-Dashboard'>OLW - Dashboard</a></li>
-  <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" width=20/> .NET WebApp: <a href='https://github.com/guedes-jr/.net-CRUD-AppWeb'>CRUD Basico</a></li>
-  <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" width=20/> .NET Blazor: <a href='https://github.com/guedes-jr/.net-BlazingPizza'>Blazing Pizza</a></li>
-  <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/800px-Vue.js_Logo_2.svg.png" width=20/> VueJS: <a href='https://github.com/guedes-jr/VueJS-Calc'>Calc</a></li>
-</ul>
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/.net-BlazingPizza">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=.net-BlazingPizza&theme=transparent"/>
+</a>
+</td>
+</tr><tr>
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/.net-CRUD-AppWeb">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=.net-CRUD-AppWeb&theme=transparent"/>
+</a>
+</td>
 
-### Jogos
----
-<ul style="list-style=none">
-  <li> :video_game: Em breve </li>
-</ul>
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/agenda">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=agenda&theme=transparent"/>
+</a>
+</td>
+</tr><tr>
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/angular-blog">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=angular-blog&theme=transparent"/>
+</a>
+</td>
 
-### Outros
----
-<ul style="list-style=none">
-  <li> :books: <a href='https://github.com/guedes-jr/Markdown'>Markdown</a></li>
-</ul>
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/Angular-gerador-certificado">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=Angular-gerador-certificado&theme=transparent"/>
+</a>
+</td>
+</tr><tr></tr></table><h2>📚 Projetos por Tecnologia</h2>
+<details>
+<summary><b>🧩 C# (1)</b></summary>
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/.net-CRUD-AppWeb">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=.net-CRUD-AppWeb&theme=transparent"/>
+</a>
+</td>
+</tr></table></details><br/>
+<details>
+<summary><b>🧩 CSS (4)</b></summary>
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/.net-BlazingPizza">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=.net-BlazingPizza&theme=transparent"/>
+</a>
+</td>
+
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/Angular-gerador-certificado">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=Angular-gerador-certificado&theme=transparent"/>
+</a>
+</td>
+</tr><tr>
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/django-bootstrapp-corona">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=django-bootstrapp-corona&theme=transparent"/>
+</a>
+</td>
+
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/django-my-finances">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=django-my-finances&theme=transparent"/>
+</a>
+</td>
+</tr><tr></tr></table></details><br/>
+<details>
+<summary><b>🧩 Go (2)</b></summary>
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/Dio-desafio_go">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=Dio-desafio_go&theme=transparent"/>
+</a>
+</td>
+
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/go-project_structure">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=go-project_structure&theme=transparent"/>
+</a>
+</td>
+</tr><tr></tr></table></details><br/>
+<details>
+<summary><b>🧩 HTML (4)</b></summary>
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/Educa.">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=Educa.&theme=transparent"/>
+</a>
+</td>
+
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/ExplorerLab-RocketPay">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=ExplorerLab-RocketPay&theme=transparent"/>
+</a>
+</td>
+</tr><tr>
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/FitClub">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=FitClub&theme=transparent"/>
+</a>
+</td>
+
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/Front_End-Travel">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=Front_End-Travel&theme=transparent"/>
+</a>
+</td>
+</tr><tr></tr></table></details><br/>
+<details>
+<summary><b>🧩 JavaScript (2)</b></summary>
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/ConvertPro">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=ConvertPro&theme=transparent"/>
+</a>
+</td>
+
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/django-ConectadoEmQuestoes">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=django-ConectadoEmQuestoes&theme=transparent"/>
+</a>
+</td>
+</tr><tr></tr></table></details><br/>
+<details>
+<summary><b>🧩 Outros (1)</b></summary>
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/Go-API_Trips">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=Go-API_Trips&theme=transparent"/>
+</a>
+</td>
+</tr></table></details><br/>
+<details>
+<summary><b>🧩 Python (6)</b></summary>
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/agenda">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=agenda&theme=transparent"/>
+</a>
+</td>
+
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/Dio-desafio_python">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=Dio-desafio_python&theme=transparent"/>
+</a>
+</td>
+</tr><tr>
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/django-livraria">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=django-livraria&theme=transparent"/>
+</a>
+</td>
+
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/django-NutriLab">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=django-NutriLab&theme=transparent"/>
+</a>
+</td>
+</tr><tr>
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/django-store-delizandra">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=django-store-delizandra&theme=transparent"/>
+</a>
+</td>
+
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/ETL-Python-API-jikan">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=ETL-Python-API-jikan&theme=transparent"/>
+</a>
+</td>
+</tr><tr></tr></table></details><br/>
+<details>
+<summary><b>🧩 SCSS (1)</b></summary>
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/Dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=Dashboard&theme=transparent"/>
+</a>
+</td>
+</tr></table></details><br/>
+<details>
+<summary><b>🧩 TypeScript (8)</b></summary>
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/angular-blog">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=angular-blog&theme=transparent"/>
+</a>
+</td>
+
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/angular-psn-store">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=angular-psn-store&theme=transparent"/>
+</a>
+</td>
+</tr><tr>
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/Aranhaverso">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=Aranhaverso&theme=transparent"/>
+</a>
+</td>
+
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/Car-Dealership">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=Car-Dealership&theme=transparent"/>
+</a>
+</td>
+</tr><tr>
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/CodeCraft-IDE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=CodeCraft-IDE&theme=transparent"/>
+</a>
+</td>
+
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/Django-Nexjs_ConectadoEmQuestoes">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=Django-Nexjs_ConectadoEmQuestoes&theme=transparent"/>
+</a>
+</td>
+</tr><tr>
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/django-nextjs-airbnb">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=django-nextjs-airbnb&theme=transparent"/>
+</a>
+</td>
+
+<td align="center" width="50%">
+<a href="https://github.com/guedes-jr/django_next_auth">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guedes-jr&repo=django_next_auth&theme=transparent"/>
+</a>
+</td>
+</tr><tr></tr></table></details><br/>
+<hr/>
+<p align="center">
+⚡ Projetos atualizados automaticamente via script Python
+</p>
+
+<!-- AUTO-GENERATED-END -->
