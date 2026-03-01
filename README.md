@@ -39,25 +39,84 @@ Sempre aberto a novos desafios, colaborações e projetos interessantes 🤝
 
 ## ⚙️ Stack & Tecnologias
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,js,react,nextjs,php,java,cs,postgres,mysql,git,linux,bootstrap,sass" />
+<p>━━━━━━━━━━━━━━━━━━━━ ⚙️ Backend ━━━━━━━━━━━━━━━━━━━━</p>
+<p>
+🐍 APIs • 🔄 ETL • ⚡ Automação • 🧠 Regras de Negócio
 </p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer"/>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,flask,php,go,cs" />
 </p>
+
+
+<p>━━━━━━━━━━━━━━━━━━━━ 🎨 Frontend ━━━━━━━━━━━━━━━━━━━━</p>
+<p>
+🌐 Interfaces • 📱 Responsividade • ⚡ SPA • UX/UI
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,vue,angular,vite" />
+</p>
+
+
+<p>━━━━━━━━━━━━━━━━━━━━ 📐 UI & Estilização ━━━━━━━━━━━━━━━━━━━━</p>
+<p>
+🎯 Design Systems • 💅 Componentização • 📐 Layout Moderno
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass,materialui" />
+</p>
+
+
+<p>━━━━━━━━━━━━━━━━━━━━ 🗄️ Banco de Dados ━━━━━━━━━━━━━━━━━━━━</p>
+<p>
+📊 Modelagem • 🔍 Queries • ⚙️ Performance
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+
+<p>━━━━━━━━━━━━━━━━━━━━ 🐧 DevOps & Ambiente ━━━━━━━━━━━━━━━━━━━━</p>
+<p>
+🚀 Deploy • 🔧 Versionamento • 🖥️ Infraestrutura
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,debian,git" />
+</p>
+
+
+<p>━━━━━━━━━━━━━━━━━━━━ 🧩 CMS & Ferramentas ━━━━━━━━━━━━━━━━━━━━</p>
+<p>
+🌍 Websites • ⚡ Gestão de Conteúdo
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
+
+
+<p>━━━━━━━━━━━━━━━━━━━━ 📊 ━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 📊 Estatísticas GitHub
 
 <p align="center">
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=guedes-jr&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=guedes-jr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes-jr&layout=compact&theme=github_dark&langs_count=8&cache_seconds=1800"/>
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guedes-jr&layout=compact&theme=github_dark"/>
 </p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=guedes-jr&theme=github-dark"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer"/>
 </p>
 
 ## 🏆 Highlights Profissionais
