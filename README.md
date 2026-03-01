@@ -7,16 +7,30 @@
 ## 🚀 Sobre Mim
 
 <p align="justify">
-Sou estudante de <strong>Tecnologia em Análise e Desenvolvimento de Sistemas</strong> e atualmente atuo como <strong>Analista de Dados</strong>.  
-Tenho forte interesse em desenvolvimento <strong>Back End</strong>, automações e construção de sistemas escaláveis.
+👋 Olá! Sou Analista de Sistemas apaixonado por tecnologia, dados e pela construção de soluções que realmente facilitam o dia a dia das pessoas 🚀
 
-Busco constantemente evoluir tecnicamente, explorando novas arquiteturas, integrações e soluções que gerem impacto real.
+Minha atuação vai além de apenas desenvolver software — gosto de entender o problema, analisar processos e transformar necessidades reais em sistemas funcionais, eficientes e escaláveis 💡
 
-💡 Apaixonado por tecnologia
-👨‍💻 Desenvolvedor Full Stack em evolução
-👨‍👩‍👧 Família como maior motivação
-🚀 Focado em crescimento profissional contínuo
+Tenho sólida experiência como **Analista de Dados**, trabalhando com tratamento, organização e transformação de informações para apoiar tomadas de decisão estratégicas 📊. Atuo frequentemente com **processos de ETL**, integração de bases de dados e automação de fluxos que garantem maior confiabilidade e eficiência no uso dos dados 🔄
 
+Além da atuação corporativa, também trabalho como **Desenvolvedor Freelancer**, participando do desenvolvimento de sistemas web, automações, integrações e soluções personalizadas para diferentes tipos de clientes e demandas 🚀
+
+No dia a dia, atuo principalmente com desenvolvimento backend, criação de APIs, integrações entre sistemas e automação de tarefas que antes eram feitas manualmente ⚙️
+
+Ao longo da minha trajetória, venho participando da criação e evolução de sistemas web, ferramentas internas e soluções voltadas à otimização de processos, sempre buscando código limpo, boas práticas e melhorias contínuas 📈
+
+🚀 Tecnologias e áreas que fazem parte do meu dia a dia:
+🐍 Python e Django
+🔗 Desenvolvimento Backend e APIs REST
+🤖 Automação de processos
+📊 Análise de dados e pipelines ETL
+🗄️ Integração e modelagem de dados
+🔄 Integração entre sistemas e serviços
+🧩 Levantamento e análise de requisitos
+🖥️ Desenvolvimento de sistemas corporativos
+
+Gosto de aprender constantemente, testar novas ideias e usar tecnologia como ferramenta para resolver problemas reais 🧠✨
+Sempre aberto a novos desafios, colaborações e projetos interessantes 🤝
 </p>
 
 <p align="center">
