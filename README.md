@@ -71,33 +71,25 @@ Sempre aberto a novos desafios, colaborações e projetos interessantes 🤝
 
 ## 📊 Estatísticas GitHub
 
-<div align="center">
+<p align="center">
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=guedes-jr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=86400"/>
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=guedes-jr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes-jr&layout=compact&theme=github_dark&cache_seconds=86400"/>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes-jr&layout=compact&theme=github_dark"/>
+</p>
 
-</div>
+<p align="center">
+  <img height="170"
+       src="https://streak-stats.demolab.com?user=guedes-jr&theme=github-dark&hide_border=true"/>
+</p>
 
-<br>
+<p align="center">
+  <img width="100%"
+       src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer"/>
+</p>
 
-<div align="center">
-
-<img height="170"
-src="https://streak-stats.demolab.com?user=guedes-jr&theme=github-dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer"/>
-
-</div>
 
 ## 🏆 Highlights Profissionais
 
