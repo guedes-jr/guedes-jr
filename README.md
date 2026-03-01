@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+%7C+Django+%7C+Automation;Construindo+Sistemas+Escal%C3%A1veis;Sempre+Aprendendo+Algo+Novo+%F0%9F%9A%80" />
 </p>
 
----
-
 ## 🚀 Sobre Mim
 
 <p align="justify">
@@ -25,8 +23,6 @@ Busco constantemente evoluir tecnicamente, explorando novas arquiteturas, integr
 <img src="https://raw.githubusercontent.com/guedes-jr/guedes-jr/main/perfil-animation.gif" width="500"/>
 </p>
 
----
-
 ## ⚙️ Stack & Tecnologias
 
 <p align="center">
@@ -35,8 +31,6 @@ Busco constantemente evoluir tecnicamente, explorando novas arquiteturas, integr
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer"/>
 </p>
-
----
 
 ## 📊 Estatísticas GitHub
 
@@ -49,8 +43,6 @@ Busco constantemente evoluir tecnicamente, explorando novas arquiteturas, integr
 <img src="https://streak-stats.demolab.com?user=guedes-jr&theme=github-dark"/>
 </p>
 
----
-
 ## 🏆 Highlights Profissionais
 
 ✅ Desenvolvimento de sistemas com Django
@@ -60,16 +52,12 @@ Busco constantemente evoluir tecnicamente, explorando novas arquiteturas, integr
 ✅ Sistemas financeiros e administrativos
 ✅ Dashboards e análise de dados
 
----
-
 ## 🟢 Atualmente
 
 * 🔭 Desenvolvendo sistemas web com Django e Next.js
 * ⚡ Criando automações para ganho de produtividade
 * 📚 Estudando arquitetura escalável e boas práticas backend
 * 🚀 Evoluindo projetos SaaS próprios
-
----
 
 ## ⭐ Projetos em Destaque
 
@@ -140,8 +128,6 @@ Sem descrição disponível
 </table>
 
 <!-- AUTO-GENERATED:FEATURED_PROJECTS_END -->
-
----
 
 ## 📂 Projetos por Tecnologia
 
@@ -355,8 +341,6 @@ Sem descrição disponível
 
 <!-- AUTO-GENERATED:PROJECTS_END -->
 
----
-
 ## 🧭 Jornada
 
 * 🚀 Início com lógica e desenvolvimento web
@@ -364,8 +348,6 @@ Sem descrição disponível
 * 🌐 Desenvolvimento Full Stack
 * ⚙️ Construção de sistemas completos
 * 📈 Foco atual em arquitetura e escalabilidade
-
----
 
 ## 📬 Contato
 
@@ -377,8 +359,6 @@ Sem descrição disponível
 <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
-
----
 
 <p align="center">
 🚀 <strong>Aberto para oportunidades e projetos freelance</strong>
