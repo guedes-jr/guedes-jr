@@ -1,7 +1,7 @@
 # 👋 Olá, me chamo João Guedes
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+%7C+Django+%7C+Automation;Construindo+Sistemas+Escaláveis;Sempre+Aprendendo+Algo+Novo+🚀"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+%7C+Django+%7C+Automation;Construindo+Sistemas+Escal%C3%A1veis;Sempre+Aprendendo+Algo+Novo+%F0%9F%9A%80" />
 </p>
 
 ---
