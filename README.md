@@ -49,8 +49,11 @@ Sempre aberto a novos desafios, colaborações e projetos interessantes 🤝
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=guedes-jr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes-jr&layout=compact&theme=github_dark"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=guedes-jr&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes-jr&layout=compact&theme=github_dark&langs_count=8&cache_seconds=1800"/>
 </p>
 
 <p align="center">
@@ -262,12 +265,20 @@ Sem descrição disponível
 
 <!-- AUTO-GENERATED:PROJECTS_START -->
 
-## 🧠 C#
+<details>
+<summary><b>⚙️ C# (1 projetos)</b></summary>
+
+<br>
 
 - **[.net-CRUD-AppWeb](https://github.com/guedes-jr/.net-CRUD-AppWeb)**
   - Sem descrição
 
-## 🧠 CSS
+</details>
+
+<details>
+<summary><b>🎨 CSS (8 projetos)</b></summary>
+
+<br>
 
 - **[Markdown](https://github.com/guedes-jr/Markdown)**
   - Repositório de orientação a formatação de arquivos markdown
@@ -293,7 +304,12 @@ Sem descrição disponível
 - **[Portfolio-Ninja](https://github.com/guedes-jr/Portfolio-Ninja)**
   - Modelo simples de portfólio para quem está iniciando no estudo de front end
 
-## 🧠 Go
+</details>
+
+<details>
+<summary><b>🐹 Go (2 projetos)</b></summary>
+
+<br>
 
 - **[Dio-desafio_go](https://github.com/guedes-jr/Dio-desafio_go)**
   - Desafio desenvolvido em go durante curso da Dio
@@ -301,7 +317,12 @@ Sem descrição disponível
 - **[go-project_structure](https://github.com/guedes-jr/go-project_structure)**
   - Estrutura e organização basica para projetos em GO
 
-## 🧠 HTML
+</details>
+
+<details>
+<summary><b>🌐 HTML (12 projetos)</b></summary>
+
+<br>
 
 - **[Educa.](https://github.com/guedes-jr/Educa.)**
   - Sem descrição
@@ -339,7 +360,12 @@ Sem descrição disponível
 - **[TemplateTravelAdventure](https://github.com/guedes-jr/TemplateTravelAdventure)**
   - Template de Agência de viagens focada em público aventureiro
 
-## 🧠 JavaScript
+</details>
+
+<details>
+<summary><b>🟨 JavaScript (3 projetos)</b></summary>
+
+<br>
 
 - **[ConvertPro](https://github.com/guedes-jr/ConvertPro)**
   - Sem descrição
@@ -350,7 +376,12 @@ Sem descrição disponível
 - **[React-AluraTube](https://github.com/guedes-jr/React-AluraTube)**
   - Sem descrição
 
-## 🧠 Outros
+</details>
+
+<details>
+<summary><b>📦 Outros (2 projetos)</b></summary>
+
+<br>
 
 - **[Go-API_Trips](https://github.com/guedes-jr/Go-API_Trips)**
   - API desenvolvida em GO para gerenciamento de Viagens
@@ -358,7 +389,12 @@ Sem descrição disponível
 - **[load_data](https://github.com/guedes-jr/load_data)**
   - Sem descrição
 
-## 🧠 Python
+</details>
+
+<details>
+<summary><b>🐍 Python (15 projetos)</b></summary>
+
+<br>
 
 - **[agenda](https://github.com/guedes-jr/agenda)**
   - Sem descrição
@@ -405,12 +441,22 @@ Sem descrição disponível
 - **[Task_Manager-Streamlit](https://github.com/guedes-jr/Task_Manager-Streamlit)**
   - Sem descrição
 
-## 🧠 SCSS
+</details>
+
+<details>
+<summary><b>📦 SCSS (1 projetos)</b></summary>
+
+<br>
 
 - **[Dashboard](https://github.com/guedes-jr/Dashboard)**
   - Template de Dashboard
 
-## 🧠 TypeScript
+</details>
+
+<details>
+<summary><b>🟦 TypeScript (17 projetos)</b></summary>
+
+<br>
 
 - **[angular-blog](https://github.com/guedes-jr/angular-blog)**
   - A blog project created with angular based on dribbble layout
@@ -463,10 +509,17 @@ Sem descrição disponível
 - **[workshop-nextauth](https://github.com/guedes-jr/workshop-nextauth)**
   - Sem descrição
 
-## 🧠 Vue
+</details>
+
+<details>
+<summary><b>💚 Vue (1 projetos)</b></summary>
+
+<br>
 
 - **[VueJS-Calc](https://github.com/guedes-jr/VueJS-Calc)**
   - Demo
+
+</details>
 
 <!-- AUTO-GENERATED:PROJECTS_END -->
 
