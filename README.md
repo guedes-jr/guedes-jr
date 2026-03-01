@@ -1,42 +1,3 @@
-<style>
-.featured-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 16px;
-  margin-top: 20px;
-}
-
-.project-card {
-  border-radius: 12px;
-  padding: 16px;
-  background-color: #0d1117;
-  border: 1px solid #30363d;
-  transition: transform .2s ease;
-}
-
-.project-card:hover {
-  transform: translateY(-4px);
-}
-
-.project-title {
-  font-size: 16px;
-  font-weight: bold;
-  color: #58a6ff;
-  text-decoration: none;
-}
-
-.project-desc {
-  font-size: 13px;
-  color: #8b949e;
-  margin: 8px 0;
-}
-
-.project-meta {
-  font-size: 12px;
-  color: #8b949e;
-}
-</style>
-
 # 👋 Olá, me chamo João Guedes
 
 <p align="center">
@@ -61,7 +22,7 @@ Busco constantemente evoluir tecnicamente, explorando novas arquiteturas, integr
 </p>
 
 <p align="center">
-<img src="perfil-animation.gif" width="500"/>
+<img src="https://raw.githubusercontent.com/guedes-jr/guedes-jr/main/perfil-animation.gif" width="500"/>
 </p>
 
 ---
@@ -118,16 +79,6 @@ Busco constantemente evoluir tecnicamente, explorando novas arquiteturas, integr
 <tr>
 <td width="33%" valign="top">
 
-### [guedes-jr](https://github.com/guedes-jr/guedes-jr)
-
-MyPerfil
-
-⭐ 0 • 🍴 0 • 🧠 N/A
-
-</td>
-
-<td width="33%" valign="top">
-
 ### [Angular-gerador-certificado](https://github.com/guedes-jr/Angular-gerador-certificado)
 
 Sem descrição disponível
@@ -145,7 +96,7 @@ Projeto Django (backend) mais NexJS (frontend), visando desenvolvimento de siste
 ⭐ 0 • 🍴 0 • 🧠 TypeScript
 
 </td>
-</tr><tr>
+
 <td width="33%" valign="top">
 
 ### [Markdown](https://github.com/guedes-jr/Markdown)
@@ -155,7 +106,7 @@ Repositório de orientação a formatação de arquivos markdown
 ⭐ 3 • 🍴 1 • 🧠 CSS
 
 </td>
-
+</tr><tr>
 <td width="33%" valign="top">
 
 ### [Dio-desafio_python](https://github.com/guedes-jr/Dio-desafio_python)
@@ -171,6 +122,16 @@ Material de Estudo e projetos realizados na Formação Python da DIO
 ### [Vite-RoomVent](https://github.com/guedes-jr/Vite-RoomVent)
 
 Projeto de remodelagem de design do site atual da empresa RoomVent
+
+⭐ 0 • 🍴 0 • 🧠 TypeScript
+
+</td>
+
+<td width="33%" valign="top">
+
+### [Next.JS-RoomVent](https://github.com/guedes-jr/Next.JS-RoomVent)
+
+Sem descrição disponível
 
 ⭐ 0 • 🍴 0 • 🧠 TypeScript
 
@@ -278,9 +239,6 @@ Projeto de remodelagem de design do site atual da empresa RoomVent
 
 - **[Go-API_Trips](https://github.com/guedes-jr/Go-API_Trips)**
   - API desenvolvida em GO para gerenciamento de Viagens
-
-- **[guedes-jr](https://github.com/guedes-jr/guedes-jr)**
-  - MyPerfil
 
 - **[load_data](https://github.com/guedes-jr/load_data)**
   - Sem descrição
